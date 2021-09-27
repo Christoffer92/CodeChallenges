@@ -1,0 +1,11 @@
+{
+  "solution": {
+    "path": "RegionNordjylland_ChristofferCodeTest.sln",
+    "projects": [
+      "APIUsageChallenge\\APIUsageChallenge.csproj",
+      "PalindromeChallenge\\PalindromeChallenge.csproj",
+      "PalindromeTest\\PalindromeTest.csproj",
+      "RegionNordjylland_ChristofferCodeTest\\ForeachChallenge.csproj"
+    ]
+  }
+}
